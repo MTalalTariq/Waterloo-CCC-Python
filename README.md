@@ -1,2 +1,2 @@
 # Waterloo-CCC-Python
-my solutions to past contests' Waterloo's Canadian Computing Competition in Python
+my solutions to the past contests of Waterloo's Canadian Computing Competition in Python
